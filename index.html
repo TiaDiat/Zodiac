@@ -18,11 +18,30 @@
 		<link rel="stylesheet" href="css/main.css">
 	</head>
 	<body>
-		
-		<div>
-			
-		</div>
 
+		<h1 class="text-center text-info">Learn more about yourself...</h1>
+
+		<div class="text-center">
+	  		<select class="myDropdown">
+	  			<option>Select your zodiac sign</option>
+	    		<option onclick="selectSign()" value="aquarius">Aquarius</option>
+	    		<option onclick="selectSign()" value="pisces">Pisces</option>
+	    		<option onclick="selectSign()" value="aries">Aries</option>
+	    		<option onclick="selectSign()" value="taurus">Taurus</option>
+	    		<option onclick="selectSign()" value="gemini">Gemini</option>
+	    		<option onclick="selectSign()" value="cancer">Cancer</option>
+	    		<option onclick="selectSign()" value="leo">Leo</option>
+	    		<option onclick="selectSign()" value="virgo">Virgo</option>
+	    		<option onclick="selectSign()" value="libra">Libra</option>
+	    		<option onclick="selectSign()" value="scorpio">Scorpio</option>
+	    		<option onclick="selectSign()" value="sagittarius">Sagittarius</option>
+	    		<option onclick="selectSign()" value="capricorn">Capricorn</option>
+	  		</select>
+	  	</div>
+
+	  	<h2 id="sign"></h2>
+		<img id="picture"></img>
+		<p id="description"></p>
 	
 	<!-- This gives access to the jquery library -->
 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
