@@ -2,8 +2,8 @@
 var mySigns = [
   {
     sign: "Aquarius Jan 20 - Feb 18",
-    picture: "http://www.freepngimg.com/thumb/aquarius/7-2-aquarius-png-hd-thumb.png",
-    description: "Aquarians have a rebellious nature, and are eccentric, spontaneous and original. They are forward thinking and innovative. Aquarians are scientifically minded and logical, and confident in manner. They can appear to be emotionally detached, yet they truly value social contact, adn the spirit of humanity."
+    picture: "https://image.flaticon.com/icons/png/512/47/47387.png",
+    description: "Aquarians have a rebellious nature, and are eccentric, spontaneous and original. They are forward thinking and innovative. Aquarians are scientifically minded and logical, and confident in manner. They can appear to be emotionally detached, yet they truly value social contact, and the spirit of humanity."
   },
   {
     sign: "Pisces Feb 19 - Mar 20",
@@ -12,7 +12,7 @@ var mySigns = [
   },
   {
     sign: "Aries Mar 21 - Apr 19",
-    picture: "http://www.freepngimg.com/thumb/aries/1-2-aries-free-png-image-thumb.png",
+    picture: "http://weclipart.com/gimg/AAC9065F4F2BEE2B/aries.png",
     description: "Aries are energentic, forceful and outgoing. Like the energy of the first rush of springtime, they move into the world in a headstrong, pioneering way, and prefer starting to finishing. They tend to rush into things, and may also be impatient. They have great vitality and a tremendous need to be physically active."
   },
   {
@@ -28,7 +28,7 @@ var mySigns = [
   {
     sign: "Cancer Jun 21- Jul 22",
     picture: "https://www.pngarts.com/files/1/Cancer-Zodiac-PNG-Photo.png",
-    description: "Cancerians are nurturing and protective of others. Their ruling planet is the Moon, and they tend to be moody, with constantly changing emotions. They are also likely to be security-conscious and highly value their home life. They may appear passive, and tend to rely on their feelings to make decisions. THey are subtle, rather than direct."
+    description: "Cancerians are nurturing and protective of others. Their ruling planet is the Moon, and they tend to be moody, with constantly changing emotions. They are also likely to be security-conscious and highly value their home life. They may appear passive, and tend to rely on their feelings to make decisions. They are subtle, rather than direct."
   },
   {
     sign: "Leo Jul 23 - Aug 22",
